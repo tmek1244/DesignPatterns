@@ -3,6 +3,6 @@ Observer pattern is design pattern in which an object (in our example WeatherSta
 
 Also in this implementation I added indicator in IObserver objects to allow calling update function without passing any arguments.
 
-##Class diagram
+## Class diagram
 ![diagram](observer_diagram.png)
 
