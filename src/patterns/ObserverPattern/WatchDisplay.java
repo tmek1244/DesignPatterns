@@ -1,10 +1,10 @@
 package patterns.ObserverPattern;
 
-public class PhoneDisplay implements IDisplay, IObserver{
+public class WatchDisplay implements IObserver, IDisplay{
     private int temperature = 0;
     private WeatherStation weatherStation;
 
-    public PhoneDisplay(WeatherStation weatherStation)
+    public WatchDisplay(WeatherStation weatherStation)
     {
         this.weatherStation = weatherStation;
     }
@@ -16,6 +16,6 @@ public class PhoneDisplay implements IDisplay, IObserver{
 
     @Override
     public void display() {
-        System.out.println("Phone display: " + this.temperature);
+        System.out.println("Watch display: " + this.temperature);
     }
 }

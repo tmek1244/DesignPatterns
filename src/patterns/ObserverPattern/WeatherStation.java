@@ -5,8 +5,13 @@ import java.util.List;
 import java.util.Random;
 
 public class WeatherStation implements IObservable{
-    private List<IObserver> observers = new ArrayList<>();
+    private List<IObserver> observers;
     private final Random rand = new Random();
+
+    public WeatherStation()
+    {
+        observers = new ArrayList<>();
+    }
 
     @Override
     public void add(IObserver observer) {
