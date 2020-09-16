@@ -9,3 +9,4 @@ They are all written in Java
 * [ObserverPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/ObserverPattern)
 * [StrategyPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/StrategyPattern)
 * [StrategyPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/DecoratorPattern)
+* [FactoryMethodPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/FactoryMethodPattern)
