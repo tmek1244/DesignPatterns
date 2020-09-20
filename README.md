@@ -11,3 +11,4 @@ They are all written in Java
 * [DecoratorPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/DecoratorPattern)
 * [FactoryMethodPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/FactoryMethodPattern)
 * [AbstractFactoryPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/AbstractFactoryPattern)
+* [SingletonPattern](https://github.com/tmek1244/DesignPatterns/tree/master/src/patterns/Singleton) ?
